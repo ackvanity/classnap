@@ -1,2 +1,5 @@
 # Older, internal version
 app-4k.js
+
+# Non-source files
+post-files/**
