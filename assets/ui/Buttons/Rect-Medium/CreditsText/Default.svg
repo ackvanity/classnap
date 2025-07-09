@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="168"
+   height="88"
+   viewBox="0 0 168 88"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Default.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.2422453"
+     inkscape:cx="49.656946"
+     inkscape:cy="60.606148"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Text/Style/Button/Medium" />
+  <g
+     id="Buttons/Rect-Medium/PlayText/Default">
+    <g
+       id="Button/Rect-Medium/Fill"
+       filter="url(#filter0_d_2_973)">
+      <rect
+         id="Background"
+         x="6"
+         y="2"
+         width="156"
+         height="76"
+         rx="11"
+         fill="#2A2E37"
+         stroke="#E52554"
+         stroke-width="4" />
+    </g>
+    <g
+       id="Text/Style/Button/Medium">
+      <g
+         id="Button/Medium"
+         filter="url(#filter1_d_2_973)"
+         transform="matrix(1.6906159,0,0,1,-59.528496,0)">
+        <path
+           d="m 41.99998,48.34191 q -0.48,0.4 -1.8,1.08 -1.28,0.68 -3.16,1.2 -1.88,0.52 -4.16,0.48 -3.48,-0.08 -6.24,-1.24 -2.72,-1.2 -4.64,-3.24 -1.88,-2.04 -2.88,-4.68 -1,-2.64 -1,-5.64 0,-3.36 1,-6.16 1.04,-2.8 2.92,-4.84 1.92,-2.04 4.56,-3.16 2.64,-1.12 5.84,-1.12 2.96,0 5.24,0.8 2.28,0.8 3.72,1.72 l -2.28,5.48 q -1,-0.76 -2.68,-1.56 -1.64,-0.84 -3.8,-0.84 -1.68,0 -3.24,0.72 -1.52,0.68 -2.72,1.96 -1.16,1.28 -1.84,3 -0.68,1.68 -0.68,3.68 0,2.12 0.6,3.88 0.64,1.76 1.8,3.04 1.16,1.24 2.76,1.92 1.64,0.68 3.68,0.68 2.36,0 4.04,-0.76 1.68,-0.76 2.56,-1.6 z m 9.92002,-15.04 0.52,4.8 -0.12,-0.72 q 0.76,-1.56 2.08,-2.64 1.32,-1.12 2.6,-1.72 1.32,-0.6 2,-0.6 l -0.28,5.6 q -1.96,-0.24 -3.36,0.64 -1.4,0.88 -2.16,2.32 -0.76,1.44 -0.76,2.96 v 6.84 h -5.56 v -17.48 z m 19.160052,17.96 q -3.2,0 -5.44,-1.2 -2.2,-1.2 -3.36,-3.32 -1.16,-2.12 -1.16,-4.88 0,-2.64 1.36,-4.76 1.36,-2.12 3.64,-3.36 2.28,-1.28 5.08,-1.28 3.76,0 6.16,2.2 2.44,2.16 3.16,6.28 l -13.6,4.32 -1.24,-3.04 9.84,-3.32 -1.16,0.52 q -0.32,-1.04 -1.16,-1.8 -0.8,-0.8 -2.44,-0.8 -1.24,0 -2.2,0.6 -0.92,0.56 -1.44,1.64 -0.48,1.04 -0.48,2.48 0,1.64 0.6,2.76 0.6,1.08 1.64,1.64 1.04,0.56 2.32,0.56 0.92,0 1.76,-0.32 0.88,-0.32 1.72,-0.84 l 2.48,4.16 q -1.4,0.8 -3.04,1.28 -1.6,0.48 -3.04,0.48 z m 20.63998,0 q -2.44,0 -4.36,-1.12 -1.92,-1.16 -3.04,-3.32 -1.08,-2.16 -1.08,-5.12 0,-2.96 1.2,-5.04 1.2,-2.08 3.28,-3.16 2.08,-1.08 4.72,-1.08 1.68,0 3.2,0.52 1.56,0.52 2.6,1.6 v 1.76 -17.08 h 5.559998 v 31.56 h -5.599998 v -3.4 l 0.44,1.2 q -1.36,1.12 -3.04,1.92 -1.68,0.76 -3.88,0.76 z m 1.84,-4.72 q 1.12,0 1.96,-0.28 0.88,-0.32 1.52,-0.88 0.68,-0.6 1.16,-1.48 v -4.28 q -0.32,-0.88 -1,-1.48 -0.64,-0.64 -1.6,-0.96 -0.92,-0.36 -2.04,-0.36 -1.24,0 -2.32,0.64 -1.04,0.6 -1.68,1.68 -0.64,1.08 -0.64,2.48 0,1.4 0.64,2.52 0.64,1.12 1.68,1.76 1.08,0.64 2.32,0.64 z m 16.000018,-13.24 h 5.6 v 17.48 h -5.6 z m -0.12,-6.2 q 0,-1.24 0.96,-2.04 1,-0.8 2.12,-0.8 1.12,0 2.04,0.8 0.96,0.8 0.96,2.04 0,1.24 -0.96,2.04 -0.92,0.76 -2.04,0.76 -1.12,0 -2.12,-0.76 -0.96,-0.8 -0.96,-2.04 z m 13.12002,-1.48 h 5.6 v 7.6 h 4.24 v 4.36 h -4.24 v 13.2 h -5.6 v -13.2 h -2.72 v -4.36 h 2.72 z m 19.79996,25.52 q -2.16,0 -4.04,-0.76 -1.84,-0.76 -3.12,-2.12 l 2.32,-3.08 q 1.28,1.16 2.36,1.68 1.12,0.48 2,0.48 0.68,0 1.2,-0.12 0.56,-0.16 0.88,-0.44 0.32,-0.32 0.32,-0.8 0,-0.68 -0.56,-1.08 -0.52,-0.4 -1.36,-0.64 -0.84,-0.28 -1.8,-0.56 -2.4,-0.76 -3.48,-2.2 -1.04,-1.48 -1.04,-3.2 0,-1.32 0.68,-2.64 0.72,-1.36 2.24,-2.24 1.56,-0.92 4,-0.92 2.2,0 3.72,0.44 1.52,0.44 2.88,1.44 l -2.12,3.28 q -0.76,-0.6 -1.72,-1 -0.92,-0.44 -1.72,-0.48 -0.72,-0.04 -1.24,0.16 -0.48,0.2 -0.76,0.52 -0.28,0.32 -0.28,0.68 -0.04,0.76 0.56,1.2 0.64,0.44 1.6,0.68 0.96,0.24 1.88,0.56 1.28,0.4 2.2,1.08 0.92,0.68 1.4,1.64 0.52,0.92 0.52,2.24 0,1.6 -0.84,3.04 -0.8,1.4 -2.48,2.28 -1.64,0.88 -4.2,0.88 z"
+           id="text1"
+           style="font-weight:bold;font-size:40px;font-family:'Josefin Sans';letter-spacing:0em;white-space:pre;fill:#e52554"
+           transform="matrix(0.59150041,0,0,1,35.21113,0)"
+           aria-label="Credits" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs5">
+    <filter
+       id="filter0_d_2_973"
+       x="0"
+       y="0"
+       width="168"
+       height="88"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1" />
+      <feOffset
+         dy="4"
+         id="feOffset1" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur1" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite1" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix2" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_2_973"
+         id="feBlend2" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_2_973"
+         result="shape"
+         id="feBlend3" />
+    </filter>
+    <filter
+       id="filter1_d_2_973"
+       x="42.9326"
+       y="19.4399"
+       width="86.5273"
+       height="47.96"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix3" />
+      <feOffset
+         dy="4"
+         id="feOffset3" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur3" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite3" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix4" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_2_973"
+         id="feBlend4" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_2_973"
+         result="shape"
+         id="feBlend5" />
+    </filter>
+  </defs>
+</svg>

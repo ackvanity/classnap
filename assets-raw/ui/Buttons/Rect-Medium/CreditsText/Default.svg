@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="168"
+   height="88"
+   viewBox="0 0 168 88"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Default.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.2422453"
+     inkscape:cx="49.656946"
+     inkscape:cy="60.606148"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Text/Style/Button/Medium" />
+  <g
+     id="Buttons/Rect-Medium/PlayText/Default">
+    <g
+       id="Button/Rect-Medium/Fill"
+       filter="url(#filter0_d_2_973)">
+      <rect
+         id="Background"
+         x="6"
+         y="2"
+         width="156"
+         height="76"
+         rx="11"
+         fill="#2A2E37"
+         stroke="#E52554"
+         stroke-width="4" />
+    </g>
+    <g
+       id="Text/Style/Button/Medium">
+      <g
+         id="Button/Medium"
+         filter="url(#filter1_d_2_973)"
+         transform="matrix(1.6906159,0,0,1,-59.528496,0)">
+        <text
+           fill="#e52554"
+           xml:space="preserve"
+           style="white-space:pre"
+           font-family="'Josefin Sans'"
+           font-size="40px"
+           font-weight="bold"
+           letter-spacing="0em"
+           id="text1"
+           x="-27.012821"
+           y="-0.2180917"
+           transform="matrix(0.59150041,0,0,1,35.21113,0)"><tspan
+             x="16.11998"
+             y="50.78191"
+             id="tspan1">Credits</tspan></text>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs5">
+    <filter
+       id="filter0_d_2_973"
+       x="0"
+       y="0"
+       width="168"
+       height="88"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1" />
+      <feOffset
+         dy="4"
+         id="feOffset1" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur1" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite1" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix2" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_2_973"
+         id="feBlend2" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_2_973"
+         result="shape"
+         id="feBlend3" />
+    </filter>
+    <filter
+       id="filter1_d_2_973"
+       x="42.9326"
+       y="19.4399"
+       width="86.5273"
+       height="47.96"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix3" />
+      <feOffset
+         dy="4"
+         id="feOffset3" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur3" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite3" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix4" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_2_973"
+         id="feBlend4" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_2_973"
+         result="shape"
+         id="feBlend5" />
+    </filter>
+  </defs>
+</svg>
