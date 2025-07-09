@@ -4,7 +4,7 @@ A funny little game about sleeping in class. Your goal is to point at as many
 sleeping students as possible, but don't wait too long and definitely don't 
 backstab the good folks...
 
-[Play online](ackvanity.github.io/classnap) now!
+[Play online](https://ackvanity.github.io/classnap) now!
 
 # Notes for developers
 
