@@ -607,12 +607,14 @@ function frame(currentTime) {
     drawFromCenter(ctx, images["assets/ui/Panel/Body/Headless.svg"], logicalWidth/2, logicalHeight/2, 1500, 1062.5);
 
     function startGame() {
-      gameState = "running";
-      elements = [];
-      grid = [...Array(3).keys()].map((_, y) => 
-          [...Array(4).keys()].map((_, x) =>
-              new Student("awake", 320 + x*320, 240 + y*240, 320, 240)));
-      grid.forEach(row => row.forEach(student => student.setSleepTimer()));
+      setTimeout(() => {
+        gameState = "running";
+        elements = [];
+        grid = [...Array(3).keys()].map((_, y) => 
+            [...Array(4).keys()].map((_, x) =>
+                new Student("awake", 320 + x*320, 240 + y*240, 320, 240)));
+        grid.forEach(row => row.forEach(student => student.setSleepTimer()));
+      }, 5);
     }
 
     function showCredits() {
